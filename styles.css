@@ -1,15 +1,14 @@
 body {
-    width: 100vw;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    margin-top: 0;
-    margin-bottom: 0;
-    margin-left: auto;
-    margin-right: auto;
-    min-height: calc(100vh - 100px); 
+    width: 60vw;
+    padding: 0;
+    margin: 0;
+    text-align: center;
 }
 
 .container {
+    max-width: 600px;
+    margin: 40px auto;
+    /*background-image: url(event_flyer.jpg);*/
     
 }
 hr {
